@@ -7,8 +7,8 @@
 
 
 
- Pour exécuter le fichier truc.js  avec Node.js, ouvrez un terminal ou une invite de commandes, naviguez jusqu'au dossier contenant le fichier truc.js et exécutez la commande suivante :
- node truc.js  
+ Pour exécuter le fichier monServeur.js  avec Node.js, ouvrez un terminal ou une invite de commandes, naviguez jusqu'au dossier contenant le fichier monServeur.js et exécutez la commande suivante :
+ node monServeur.js  
  **/
 
 /**
